@@ -56,8 +56,7 @@ As a lead developer and architect on the project, my responsibilities spanned en
 ---
 
 ## ⚙️ System Architecture & Workflow
-<img width="60" align="right" alt="Workflow Logo" src="https://github.com/user-attachments/assets/b8462f6c-5ca5-4360-a08f-a3333b875ddb" />
-
+<img width="190" align="right" alt="Workflow Logo" src="https://github.com/user-attachments/assets/b8462f6c-5ca5-4360-a08f-a3333b875ddb" style="width: 5cm; max-width: 100%; height: auto;" />
 ```text
   [ Physical Circuit / Current Sensors ]
                     │
