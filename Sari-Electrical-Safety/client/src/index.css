@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Dark Industrial Theme Palette */
+  --background: 222 47% 11%;      /* #0f172a - Very dark slate */
+  --foreground: 210 40% 98%;      /* #f8fafc - Off white */
+
+  --card: 217 33% 17%;            /* #1e293b - Slate 800 */
+  --card-foreground: 210 40% 98%;
+
+  --popover: 222 47% 11%;
+  --popover-foreground: 210 40% 98%;
+
+  --primary: 189 94% 43%;         /* #06b6d4 - Neon Cyan (Tech/Active) */
+  --primary-foreground: 222 47% 11%;
+
+  --secondary: 217 33% 17%;
+  --secondary-foreground: 210 40% 98%;
+
+  --muted: 217 33% 25%;           /* Lighter slate for muted elements */
+  --muted-foreground: 215 20% 65%;
+
+  --accent: 189 94% 43%;
+  --accent-foreground: 222 47% 11%;
+
+  --destructive: 0 84% 60%;       /* #ef4444 - Red 500 (Critical) */
+  --destructive-foreground: 210 40% 98%;
+
+  /* Custom Semantic Colors */
+  --success: 161 94% 30%;         /* #10b981 - Emerald 500 (Safe) */
+  --warning: 38 92% 50%;          /* #f59e0b - Amber 500 (Warning) */
+  --info: 217 91% 60%;            /* #3b82f6 - Blue 500 */
+
+  --border: 217 33% 25%;
+  --input: 217 33% 25%;
+  --ring: 189 94% 43%;
+
+  --radius: 0.5rem;
+
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-body antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-tight;
+  }
+}
+
+/* Custom Scrollbar for the industrial look */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-background;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-muted rounded-full hover:bg-muted-foreground/50 transition-colors;
+}
+
+/* Neon Glow Utilities */
+.text-glow {
+  text-shadow: 0 0 10px hsla(var(--primary), 0.5);
+}
+.border-glow {
+  box-shadow: 0 0 5px hsla(var(--primary), 0.3);
+}
+
+/* Status Indicator Animations */
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 0.5; }
+  100% { transform: scale(2); opacity: 0; }
+}
+.animate-pulse-ring {
+  animation: pulse-ring 2s cubic-bezier(0.2, 0.6, 0.2, 1) infinite;
+}
