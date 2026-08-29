@@ -83,7 +83,7 @@ As a lead developer and architect on the project, my responsibilities spanned en
 
 5- Web Dashboard: Visualizes live power metrics, displays alert statuses, and enables direct system monitoring.
 
-📦 Dataset Setup
+## 📦 Dataset Setup
 The project includes large dataset files used by the SARI system. To keep the repository lightweight and manageable, the datasets are archived as compressed .zip files.
 
 * Before running the analytical or training modules, extract the required files inside the attached_assets/ directory:
@@ -92,20 +92,20 @@ train_1770243485879.csv.zip
 
 test_1770243497324.csv.zip
 
-After extraction, the directory structure should appear as follows:
+## After extraction, the directory structure should appear as follows:
 attached_assets/
 ├── ....
 ├── train_1770243485879.csv
 └── test_1770243497324.csv
 
-🛠️ Extracting the Dataset
+## 🛠️ Extracting the Dataset
 macOS / Linux:
 
 cd Sari-Electrical-Safety/attached_assets
 unzip train_1770243485879.csv.zip
 unzip test_1770243497324.csv.zip
 
-Windows:
+## Windows:
 
 1- Navigate to the attached_assets directory in File Explorer.
 
