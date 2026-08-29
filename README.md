@@ -57,6 +57,8 @@ As a lead developer and architect on the project, my responsibilities spanned en
 
 ## ⚙️ System Architecture & Workflow
 
+<img width="60" align="right" alt="Workflow Logo" src="https://github.com/user-attachments/assets/b8462f6c-5ca5-4360-a08f-a3333b875ddb" />
+
 ```text
   [ Physical Circuit / Current Sensors ]
                     │
@@ -83,6 +85,7 @@ As a lead developer and architect on the project, my responsibilities spanned en
 
 5- Web Dashboard: Visualizes live power metrics, displays alert statuses, and enables direct system monitoring.
 
+---
 ## 📦 Dataset Setup
 The project includes large dataset files used by the SARI system. To keep the repository lightweight and manageable, the datasets are archived as compressed .zip files.
 
@@ -100,6 +103,8 @@ attached_assets/
 ├── train_1770243485879.csv
 └── test_1770243497324.csv
 
+---
+
 ## 🛠️ Extracting the Dataset
 macOS / Linux:
 
@@ -114,6 +119,8 @@ unzip test_1770243497324.csv.zip
 2- Right-click each .zip file and select Extract All....
 
 ⚠️ Important: The application expects uncompressed .csv files during runtime execution. Ensure both archives are fully extracted prior to starting the local server.
+
+---
 
 ## 🛠️ Tech Stack & Hardware Components
 
