@@ -56,7 +56,7 @@ As a lead developer and architect on the project, my responsibilities spanned en
 ---
 
 ## ⚙️ System Architecture & Workflow
-<img width="60" align="right" alt="Workflow Logo" src="[https://github.com/user-attachments/assets/b8462f6c-5ca5-4360-a08f-a3333b875ddb](https://github.com/user-attachments/assets/b8462f6c-5ca5-4360-a08f-a3333b875ddb)" />
+<img width="60" align="right" alt="Workflow Logo" src="https://github.com/user-attachments/assets/b8462f6c-5ca5-4360-a08f-a3333b875ddb" />
 
 ```text
   [ Physical Circuit / Current Sensors ]
@@ -72,6 +72,8 @@ As a lead developer and architect on the project, my responsibilities spanned en
                     │
                     ▼
           [ SARI Web Dashboard ]     ──► (Live Telemetry & Instant Safety Alerts)
+
+```
 1- Sensing Layer: Continuous monitoring of AC current and voltage metrics using dedicated sensor modules.
 
 2- Edge Processing: Microcontroller computes differential thresholds in real-time to detect residual currents/leakages instantly.
