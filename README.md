@@ -1,4 +1,4 @@
-# SARI: Smart Electrical Current & Leakage Defense System ⚡🛡️
+# SARI: Smart Electrical Current & Leakage Defense System ⚡
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b398f93-03c9-4628-ac33-dd347b8081b0" alt="SARI Project Mascot / Logo" width="180" style="border: 2px solid #30363d; border-radius: 12px; padding: 10px;" />
@@ -112,8 +112,17 @@ Windows:
 
 ⚠️ Important: The application expects uncompressed .csv files during runtime execution. Ensure both archives are fully extracted prior to starting the local server.
 
+## 🛠️ Tech Stack & Hardware Components
 
-🛠️ Tech Stack & Hardware ComponentsCategoryTechnologies / ComponentsMicrocontrollers & HardwareArduino Uno R4, ESP Microcontroller, Current & Voltage Sensors, RelaysFirmware & EmbeddedC / C++ (Arduino IDE), ESP API IntegrationSmart PrototypeScaled Smart Home Model with Automated Circuit ControlBackend & DatabaseREST APIs, Cloud Database IntegrationWeb InterfaceHTML5, CSS3, JavaScript Web DashboardSponsors & IncubationPrince Faisal bin Bandar Chair for AI, Riyadh Municipality Showcase, Saudi Electricity Company (SEC)Institution
+| Category | Technologies / Components |
+| :--- | :--- |
+| **Microcontrollers & Hardware** | Arduino Uno R4, ESP Microcontroller, Current & Voltage Sensors, Relays |
+| **Firmware & Embedded** | C / C++ (Arduino IDE), ESP API Integration |
+| **Smart Prototype** | Scaled Smart Home Model with Automated Circuit Control |
+| **Backend & Database** | REST APIs, Cloud Database Integration |
+| **Web Interface** | HTML5, CSS3, JavaScript Web Dashboard |
+| **Sponsors & Incubation** | Prince Faisal bin Bandar Chair for AI, Riyadh Municipality Showcase, Saudi Electricity Company (SEC) |
+| **Institution** | Shaqra University (جامعة شقراء) |
 
 
           
