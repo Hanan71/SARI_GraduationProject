@@ -87,12 +87,14 @@ As a lead developer and architect on the project, my responsibilities spanned en
 The project includes large dataset files used by the SARI system. To keep the repository lightweight and manageable, the datasets are archived as compressed .zip files.
 
 * Before running the analytical or training modules, extract the required files inside the attached_assets/ directory:
+https://github.com/Hanan71/SARI_GraduationProject/tree/main/Sari-Electrical-Safety/attached_assets
 
 train_1770243485879.csv.zip
 
 test_1770243497324.csv.zip
 
 ## After extraction, the directory structure should appear as follows:
+
 attached_assets/
 ├── ....
 ├── train_1770243485879.csv
