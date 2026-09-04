@@ -188,21 +188,6 @@ unzip test_1770243497324.csv.zip
 | **Sponsors & Incubation** | Prince Faisal bin Bandar Chair for AI, Riyadh Municipality Showcase, Saudi Electricity Company (SEC) |
 | **Institution** | Shaqra University (جامعة شقراء) |
 
-<p align="center">
-  <a href="https://canva.link/mg5k9jr52mu1vm8" target="_blank">
-    <kbd style="padding: 8px 14px; font-size: 14px; background-color: #f6f8fa; color: #24292f; border: 1px solid #d0d7de; border-radius: 6px; cursor: pointer; margin: 4px;">
-      🎨 Uni Presentation
-    </kbd>
-  </a>
-  <a href="https://canva.link/i0wxatdrodx4elm" target="_blank">
-    <kbd style="padding: 8px 14px; font-size: 14px; background-color: #f6f8fa; color: #24292f; border: 1px solid #d0d7de; border-radius: 6px; cursor: pointer; margin: 4px;">
-      🖼️ University Poster
-    </kbd>
-  </a>
-  <a href="https://canva.link/gyqxo7stbdqumpo" target="_blank">
-    <kbd style="padding: 8px 14px; font-size: 14px; background-color: #f6f8fa; color: #24292f; border: 1px solid #d0d7de; border-radius: 6px; cursor: pointer; margin: 4px;">
-      👑 بوستر الإمارة (أمير الرياض)
-    </kbd>
-  </a>
-</p>
-
+[![University Presentation](https://img.shields.io/badge/Canva-Uni%20Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/mg5k9jr52mu1vm8)
+[![University Poster](https://img.shields.io/badge/Canva-University%20Poster-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/i0wxatdrodx4elm)
+[![Emirate of Riyadh Province Poster](https://img.shields.io/badge/Canva-بوستر%20الإمارة-7D2AE8?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/gyqxo7stbdqumpo)
