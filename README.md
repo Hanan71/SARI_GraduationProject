@@ -176,16 +176,13 @@ unzip test_1770243497324.csv.zip
 | **Sponsors & Incubation** | Prince Faisal bin Bandar Chair for AI, Riyadh Municipality Showcase, Saudi Electricity Company (SEC) |
 | **Institution** | Shaqra University (جامعة شقراء) |
 
-## Click For More
+## Click For More<p align="center">
 
-[![University Presentation](https://img.shields.io/badge/Canva-Uni%20Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/mg5k9jr52mu1vm8)
-
-<br/>
-
-[![University Poster](https://img.shields.io/badge/Canva-University%20Poster-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/i0wxatdrodx4elm)
-
-<br/>
-
-[![Emirate of Riyadh Province Poster](https://img.shields.io/badge/Canva-Emirate%20of%20Riyadh%20Poster-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/gyqxo7stbdqumpo)
-
-[![SARI Project Document](https://img.shields.io/badge/Canva-Project%20Document-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2)](https://canva.link/q4kshmaqxc985dr)
+  <a href="https://canva.link/mg5k9jr52mu1vm8"><img src="https://img.shields.io/badge/Canva-Uni%20Presentation-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
+  &nbsp;&nbsp;
+  <a href="https://canva.link/i0wxatdrodx4elm"><img src="https://img.shields.io/badge/Canva-University%20Poster-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
+  &nbsp;&nbsp;
+  <a href="https://canva.link/gyqxo7stbdqumpo"><img src="https://img.shields.io/badge/Canva-Emirate%20of%20Riyadh%20Poster-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
+  &nbsp;&nbsp;
+  <a href="https://canva.link/q4kshmaqxc985dr"><img src="https://img.shields.io/badge/Canva-Project%20Document-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
+</p>
