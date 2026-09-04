@@ -187,3 +187,5 @@ unzip test_1770243497324.csv.zip
 <br/>
 
 [![Emirate of Riyadh Province Poster](https://img.shields.io/badge/Canva-Emirate%20of%20Riyadh%20Poster-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/gyqxo7stbdqumpo)
+
+[![SARI Project Document](https://img.shields.io/badge/Canva-Project%20Document-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2)](https://canva.link/q4kshmaqxc985dr)
