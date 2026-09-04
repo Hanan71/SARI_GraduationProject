@@ -190,4 +190,4 @@ unzip test_1770243497324.csv.zip
 
 [![University Presentation](https://img.shields.io/badge/Canva-Uni%20Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/mg5k9jr52mu1vm8)
 [![University Poster](https://img.shields.io/badge/Canva-University%20Poster-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/i0wxatdrodx4elm)
-[![Emirate of Riyadh Province Poster](https://img.shields.io/badge/Canva-بوستر%20الإمارة-7D2AE8?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/gyqxo7stbdqumpo)
+[![Emirate of Riyadh Province Poster](https://img.shields.io/badge/Canva-Emirate%20of%20Riyadh%20Poster-FFFFFF?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=F6F8FA&color=FFFFFF)](https://canva.link/gyqxo7stbdqumpo)
