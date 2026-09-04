@@ -147,7 +147,7 @@ attached_assets/
 
 ## 🛠️ Extracting the Dataset
 ---
-##macOS / Linux:
+## MacOS / Linux:
 
 cd Sari-Electrical-Safety/attached_assets
 unzip train_1770243485879.csv.zip
