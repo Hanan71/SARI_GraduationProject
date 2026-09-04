@@ -30,7 +30,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="رابط-الصورة-الثالثة-هنا" target="_blank">
+        <a href="https://www.se.com.sa/" target="_blank">
           <img width="180" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 2px;" alt="79706f77-2b27-4c35-b54d-2acd3f38888f" src="https://github.com/user-attachments/assets/e0c68e16-bc3c-487f-8c3d-272b563f7183" />
         </a>
       </td>
