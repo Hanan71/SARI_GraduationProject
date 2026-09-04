@@ -25,7 +25,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="رابط-الصورة-الثانية-هنا" target="_blank">
+        <a href="https://www.moenergy.gov.sa/ar/ministry/about/initiatives/moenergy-incubator/about" target="_blank">
           <img width="180" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 2px;" alt="حاضنة-الطاقة-scaled" src="https://github.com/user-attachments/assets/8c66520b-890b-4589-b063-78d3fff60dae" />
         </a>
       </td>
