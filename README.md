@@ -35,7 +35,7 @@
 [![SARI Components](https://img.shields.io/badge/Canva-Components-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2)](https://canva.link/pq06gbgdikphy8o) 👈 click to Discover SARI Components
 
 ---
-## Press Picture's For more
+## Press Picture's For more  👇
 
 <div align="center">
   <table>
@@ -176,7 +176,9 @@ unzip test_1770243497324.csv.zip
 | **Sponsors & Incubation** | Prince Faisal bin Bandar Chair for AI, Riyadh Municipality Showcase, Saudi Electricity Company (SEC) |
 | **Institution** | Shaqra University (جامعة شقراء) |
 
-## Click For More<p align="center">
+## Click For More  👇
+
+<p align="center">
 
   <a href="https://canva.link/mg5k9jr52mu1vm8"><img src="https://img.shields.io/badge/Canva-Uni%20Presentation-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
   &nbsp;&nbsp;
