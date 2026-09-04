@@ -10,6 +10,15 @@
 </table>
 
 
+
+<p align="center">
+  <strong>Bachelor's Graduation Project — Shaqra University (جامعة شقراء)</strong><br>
+  <em>College of Computing and Information Technology</em>
+</p>
+
+
+
+
 <div align="center">
   <table>
     <tr>
@@ -53,12 +62,6 @@
 </div>
 
 ---
-
-
-<p align="center">
-  <strong>Bachelor's Graduation Project — Shaqra University (جامعة شقراء)</strong><br>
-  <em>College of Computing and Information Technology</em>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sponsored%20By-Prince%20Faisal%20bin%20Bandar%20Chair%20for%20AI-006C35?style=for-the-badge" />
