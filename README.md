@@ -10,6 +10,10 @@
 </table>
 
 
+<img width="1125" height="630" alt="IMG_2E642875E58D-1" src="https://github.com/user-attachments/assets/87c12151-75d4-4869-8306-dfaab31a716a" />
+
+
+
 <p align="center">
   <strong>Bachelor's Graduation Project — Shaqra University (جامعة شقراء)</strong><br>
   <em>College of Computing and Information Technology</em>
