@@ -64,20 +64,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sponsored%20By-Prince%20Faisal%20bin%20Bandar%20Chair%20for%20AI-006C35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Showcased%20At-Riyadh%20Region%20Municipality-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Incubated%20By-Saudi%20Electricity%20Company%20(SEC)-005696?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-IoT%20%7C%20Embedded%20Systems-00599C?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Web-Frontend%20Dashboard-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microcontrollers-Arduino%20Uno%20R4%20%7C%20ESP-00979D?style=for-the-badge&logo=arduino" />
-  <img src="https://img.shields.io/badge/Database%20%26%20API-Cloud%20Integration-4E9A06?style=for-the-badge&logo=fastapi" />
-</p>
-
----
 
 ## 💡 Overview
 
