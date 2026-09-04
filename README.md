@@ -131,17 +131,18 @@ The project includes large dataset files used by the SARI system. To keep the re
 * Before running the analytical or training modules, extract the required files inside the attached_assets/ directory:
 https://github.com/Hanan71/SARI_GraduationProject/tree/main/Sari-Electrical-Safety/attached_assets
 
-train_1770243485879.csv.zip
+- train_1770243485879.csv.zip
 
-test_1770243497324.csv.zip
+- test_1770243497324.csv.zip
 
 ## After extraction, the directory structure should appear as follows:
 
+```text
 attached_assets/
 ├── ....
 ├── train_1770243485879.csv
 └── test_1770243497324.csv
-
+```
 ---
 
 ## 🛠️ Extracting the Dataset
