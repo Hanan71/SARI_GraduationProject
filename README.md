@@ -124,7 +124,7 @@ unzip test_1770243497324.csv.zip
 
 | Category | Technologies / Components |
 | :--- | :--- |
-| **Microcontrollers & Hardware** | Arduino Uno R4, ESP Microcontroller, Current & Voltage Sensors, Relays |
+| **Microcontrollers & Hardware** | Arduino R4, ESP Microcontroller, Current & Voltage Sensors, Relays |
 | **Firmware & Embedded** | C / C++ (Arduino IDE), ESP API Integration |
 | **Smart Prototype** | Scaled Smart Home Model with Automated Circuit Control |
 | **Backend & Database** | REST APIs, Cloud Database Integration |
