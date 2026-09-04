@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <h1>SARI: Smart Current & Leakage Defense System ⚡</h1>
+      <h1>SARI: Smart Current&Leakage Defense System ⚡</h1>
     </td>
     <td valign="middle" align="center">
       <img width="220" alt="favicon-removebg-preview" src="https://github.com/user-attachments/assets/9df4e7e7-b50f-4e17-bdab-7781d1597c1c" />
