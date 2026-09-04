@@ -1,4 +1,6 @@
-# SARI: Smart Electrical Current & Leakage Defense System ⚡
+# SARI: Smart Electrical Current & Leakage Defense System ⚡ 
+<img width="432" height="206" alt="favicon-removebg-preview" src="https://github.com/user-attachments/assets/9df4e7e7-b50f-4e17-bdab-7781d1597c1c" />
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e6772997-c009-4cf5-99ce-cb2b76bc5bcf" alt="IMG_2E642875E58D-1" width="600" style="max-width: 100%; height: auto; border: 2px solid #30363d; border-radius: 12px; padding: 8px;" />
