@@ -1,12 +1,13 @@
-<img align="right" width="200" alt="favicon-removebg-preview" src="https://github.com/user-attachments/assets/9df4e7e7-b50f-4e17-bdab-7781d1597c1c" />
-
-# SARI: Smart Electrical Current & Leakage Defense System ⚡
-
-<br clear="right"/>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e6772997-c009-4cf5-99ce-cb2b76bc5bcf" alt="IMG_2E642875E58D-1" width="600" style="max-width: 100%; height: auto; border: 2px solid #30363d; border-radius: 12px; padding: 8px;" />
-</p>
+<table>
+  <tr>
+    <td valign="middle">
+      <h1>SARI: Smart Electrical Current & Leakage Defense System ⚡</h1>
+    </td>
+    <td valign="middle" align="center">
+      <img width="220" alt="favicon-removebg-preview" src="https://github.com/user-attachments/assets/9df4e7e7-b50f-4e17-bdab-7781d1597c1c" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
