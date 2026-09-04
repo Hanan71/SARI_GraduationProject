@@ -23,7 +23,7 @@
   <table>
     <tr>
       <td align="center" valign="middle">
-        <img width="500" alt="IMG_2E642875E58D-1" src="https://github.com/user-attachments/assets/87c12151-75d4-4869-8306-dfaab31a716a" />
+        <img width="700" alt="IMG_2E642875E58D-1" src="https://github.com/user-attachments/assets/87c12151-75d4-4869-8306-dfaab31a716a" />
       </td>
       <td align="center" valign="middle">
         <img width="320" alt="Screenshot 2026-09-04 at 7 14 09 PM" src="https://github.com/user-attachments/assets/ef2fa214-3749-4096-b06a-0c07229a4ff3" />
