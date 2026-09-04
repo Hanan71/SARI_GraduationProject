@@ -188,5 +188,21 @@ unzip test_1770243497324.csv.zip
 | **Sponsors & Incubation** | Prince Faisal bin Bandar Chair for AI, Riyadh Municipality Showcase, Saudi Electricity Company (SEC) |
 | **Institution** | Shaqra University (جامعة شقراء) |
 
+<p align="center">
+  <a href="https://canva.link/mg5k9jr52mu1vm8" target="_blank">
+    <kbd style="padding: 8px 14px; font-size: 14px; background-color: #f6f8fa; color: #24292f; border: 1px solid #d0d7de; border-radius: 6px; cursor: pointer; margin: 4px;">
+      🎨 Uni Presentation
+    </kbd>
+  </a>
+  <a href="https://canva.link/i0wxatdrodx4elm" target="_blank">
+    <kbd style="padding: 8px 14px; font-size: 14px; background-color: #f6f8fa; color: #24292f; border: 1px solid #d0d7de; border-radius: 6px; cursor: pointer; margin: 4px;">
+      🖼️ University Poster
+    </kbd>
+  </a>
+  <a href="https://canva.link/gyqxo7stbdqumpo" target="_blank">
+    <kbd style="padding: 8px 14px; font-size: 14px; background-color: #f6f8fa; color: #24292f; border: 1px solid #d0d7de; border-radius: 6px; cursor: pointer; margin: 4px;">
+      👑 بوستر الإمارة (أمير الرياض)
+    </kbd>
+  </a>
+</p>
 
-          
