@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="رابط-الصورة-الأولى-هنا" target="_blank">
+        <a href="https://www.su.edu.sa/ar" target="_blank">
           <img width="180" style="border: 1px solid #d0d7de; border-radius: 6px; padding: 2px;" alt="images" src="https://github.com/user-attachments/assets/ed0f3201-5832-4008-9855-ad736b9240ac" />
         </a>
       </td>
