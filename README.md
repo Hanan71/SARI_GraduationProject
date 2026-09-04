@@ -32,7 +32,7 @@
   </table>
 </div>
 
-[![SARI Components](https://img.shields.io/badge/Canva-Components-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2)](https://canva.link/pq06gbgdikphy8o) 👈 click to Descouver Components
+[![SARI Components](https://img.shields.io/badge/Canva-Components-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2)](https://canva.link/pq06gbgdikphy8o) 👈 click to Discover SARI Components
 
 ---
 ## Press Picture's For more
