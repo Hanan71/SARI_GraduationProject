@@ -94,6 +94,7 @@ As a lead developer and architect on the project, my responsibilities spanned en
 * **🗄️ Database Architecture & Cloud Integration:** Configured and connected the web platform to a live cloud database to log telemetry, track threshold breaches, and maintain historical audit logs.
 * **🌐 Device-to-Platform API Communication:** Built and integrated RESTful APIs linking the physical hardware directly with the web platform for seamless two-way data flow.
 * **🏡 Smart Home Model Integration (ESP API):** Interfaced and synchronized the IoT system with a physical scale **Smart Home Model** using an **ESP** microcontroller via custom APIs, enabling real-time automated safety shutdowns and simulated room-by-room telemetry.
+*  **📊 MATLAB & Simulink System Simulation:** Designed and built the digital twin and simulation models (`.slx`) along with an interactive graphical interface (`.mlapp` via MATLAB App Designer) to validate circuit behavior, simulate leakage fault scenarios, and verify real-time monitoring and detection logic before physical deployment.
 
 ---
 
