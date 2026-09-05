@@ -188,3 +188,6 @@ unzip test_1770243497324.csv.zip
   &nbsp;&nbsp;
   <a href="https://canva.link/q4kshmaqxc985dr"><img src="https://img.shields.io/badge/Canva-Project%20Document-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
 </p>
+
+---
+📄 All rights reserved © 2026e.
