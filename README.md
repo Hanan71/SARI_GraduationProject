@@ -185,13 +185,14 @@ unzip test_1770243497324.csv.zip
 
 <table>
   <tr>
-    <td valign="top" width="55%">
+    <td valign="top" width="60%">
 
 1. Open the project using the button above (or open the project folder in MATLAB).
 2. In the **Command Window**, run:
-   ```matlab
-   Sari_simulink
-    ```
+```matlab
+Sari_simulink
+ ```
+   
    ---
 ## Click For More  👇
 
