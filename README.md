@@ -176,18 +176,22 @@ unzip test_1770243497324.csv.zip
 | **Sponsors & Incubation** | Prince Faisal bin Bandar Chair for AI, Riyadh Municipality Showcase, Saudi Electricity Company (SEC) |
 | **Institution** | Shaqra University (جامعة شقراء) |
 ---
-## 🚀 Run Project simulation On MATLAB 
+
+## 🚀 Run Project Simulation On MATLAB
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=USERNAME/REPOSITORY_NAME)
 
 ### 📋 Steps:
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
 1. Open the project using the button above (or open the project folder in MATLAB).
 2. In the **Command Window**, run:
    ```matlab
    Sari_simulink
-   ```
-   <img width="1044" height="684" alt="Screenshot 2026-09-05 at 10 11 20 PM" src="https://github.com/user-attachments/assets/a76e2fc6-80b7-42ae-9f78-3112a9f503cd" />
-
+    ```
    ---
 ## Click For More  👇
 
