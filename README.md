@@ -183,39 +183,19 @@ unzip test_1770243497324.csv.zip
 
 ### 📋 Steps:
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
-1. Open the project using the button above (or open the project folder in MATLAB).
-2. In the **Command Window**, run:
-```matlab
-Sari_simulink
- ```
-</td>
-<td valign="top" width="40%" align="center">
-  <img width="300" alt="Screenshot" src="https://github.com/user-attachments/assets/a76e2fc6-80b7-42ae-9f78-3112a9f503cd" />
-</td>
-
-
-<br>
+| Steps | Interface |
+| :--- | :---: |
+| 1. Open the project using the button above (or open the project folder in MATLAB).<br><br>2. In the **Command Window**, run:<br>`Sari_simulink` | <img width="280" alt="Screenshot" src="https://github.com/user-attachments/assets/a76e2fc6-80b7-42ae-9f78-3112a9f503cd" /> |
 
 ---
-
-<br>
 
 ## Click For More 👇
 
-<p align="center">
-  <a href="https://canva.link/mg5k9jr52mu1vm8"><img src="https://img.shields.io/badge/Canva-Uni%20Presentation-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
-  &nbsp;&nbsp;
-  <a href="https://canva.link/i0wxatdrodx4elm"><img src="https://img.shields.io/badge/Canva-University%20Poster-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
-  &nbsp;&nbsp;
-  <a href="https://canva.link/gyqxo7stbdqumpo"><img src="https://img.shields.io/badge/Canva-Emirate%20of%20Riyadh%20Poster-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
-  &nbsp;&nbsp;
-  <a href="https://canva.link/q4kshmaqxc985dr"><img src="https://img.shields.io/badge/Canva-Project%20Document-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
-</p>
+[![Canva Uni Presentation](https://img.shields.io/badge/Canva-Uni%20Presentation-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2)](https://canva.link/mg5k9jr52mu1vm8)
+[![Canva University Poster](https://img.shields.io/badge/Canva-University%20Poster-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2)](https://canva.link/i0wxatdrodx4elm)
+[![Canva Emirate of Riyadh Poster](https://img.shields.io/badge/Canva-Emirate%20of%20Riyadh%20Poster-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2)](https://canva.link/gyqxo7stbdqumpo)
+[![Canva Project Document](https://img.shields.io/badge/Canva-Project%20Document-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2)](https://canva.link/q4kshmaqxc985dr)
 
 ---
 
-<p align="center">📄 All rights reserved © 2026</p>
+📄 All rights reserved © 2026
