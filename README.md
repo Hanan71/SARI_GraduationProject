@@ -183,11 +183,6 @@ unzip test_1770243497324.csv.zip
 
 ### 📋 Steps:
 
-   </td>
-<td valign="top" width="40%" align="center">
-  <img width="300" alt="Screenshot" src="[https://github.com/user-attachments/assets/a76e2fc6-80b7-42ae-9f78-3112a9f503cd](https://github.com/user-attachments/assets/a76e2fc6-80b7-42ae-9f78-3112a9f503cd)" />
-</td>
-
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -197,6 +192,10 @@ unzip test_1770243497324.csv.zip
 ```matlab
 Sari_simulink
  ```
+</td>
+<td valign="top" width="40%" align="center">
+  <img width="300" alt="Screenshot" src="https://github.com/user-attachments/assets/a76e2fc6-80b7-42ae-9f78-3112a9f503cd" />
+</td>
 
    ---
 ## Click For More  👇
