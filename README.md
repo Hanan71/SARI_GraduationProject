@@ -197,11 +197,16 @@ Sari_simulink
   <img width="300" alt="Screenshot" src="https://github.com/user-attachments/assets/a76e2fc6-80b7-42ae-9f78-3112a9f503cd" />
 </td>
 
-   ---
-## Click For More  👇
+
+<br>
+
+---
+
+<br>
+
+## Click For More 👇
 
 <p align="center">
-
   <a href="https://canva.link/mg5k9jr52mu1vm8"><img src="https://img.shields.io/badge/Canva-Uni%20Presentation-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
   &nbsp;&nbsp;
   <a href="https://canva.link/i0wxatdrodx4elm"><img src="https://img.shields.io/badge/Canva-University%20Poster-0A66C2?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=FFFFFF&color=0A66C2" /></a>
@@ -212,4 +217,5 @@ Sari_simulink
 </p>
 
 ---
-📄 All rights reserved © 2026e.
+
+<p align="center">📄 All rights reserved © 2026</p>
